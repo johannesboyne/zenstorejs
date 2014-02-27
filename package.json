@@ -1,6 +1,6 @@
 {
   "name": "zenstorejs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Client API for zenstore",
   "main": "index.js",
   "author": "Johannes Boyne <johannes@boyne.de>",
