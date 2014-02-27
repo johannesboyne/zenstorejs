@@ -1,6 +1,6 @@
 {
   "name": "zenstorejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Client API for zenstore",
   "main": "index.js",
   "author": "Johannes Boyne <johannes@boyne.de>",
@@ -13,5 +13,9 @@
   },
   "dependencies": {
     "through": "~2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johannesboyne/zenstorejs.git"
   }
 }
